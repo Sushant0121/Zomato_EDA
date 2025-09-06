@@ -4,5 +4,5 @@
 - 📂 [View on GitHub](Zomato_EDA.ipynb)
 
 **Summary:**  
-Performed Exploratory Data Analysis on the Zomato dataset to uncover insights about restaurant ratings, popular cuisines, cost distribution, and location trends.  
-Key findings include top-rated restaurants, average ratings across locations, and customer preferences based on cuisine and price range.
+* Performed Exploratory Data Analysis on the Zomato dataset to uncover insights about restaurant ratings, popular cuisines, cost distribution, and location trends.  
+* Key findings include top-rated restaurants, average ratings across locations, and customer preferences based on cuisine and price range.
